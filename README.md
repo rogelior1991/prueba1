@@ -4,7 +4,4 @@ mnmnmnm
 
 gato
 hola3
-hola2hghg
-hola2
-hola3pppp
-perro
+
